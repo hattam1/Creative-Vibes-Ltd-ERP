@@ -1,0 +1,14 @@
+creative_vibes_theme/
+├── __init__.py
+├── __manifest__.py
+├── static/
+│   ├── description/
+│   │   └── icon.png
+│   └── src/
+│       ├── img/
+│       │   └── logo.png
+│       └── scss/
+│           └── backend.scss
+└── views/
+    ├── assets.xml
+    └── templates.xml
